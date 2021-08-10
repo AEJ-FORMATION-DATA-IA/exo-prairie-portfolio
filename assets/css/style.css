@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.igs-font-lato {
+    font-family: Lato;
+}
+.igs-underline {
+    text-decoration: underline;
+}
+
+.igs-hoverline {
+    text-decoration: hoverline;
+}
+
+.igs-txt-center {
+    text-align: center;
+}
+
+.igs-txt-upper {
+    text-transform: uppercase;
+}
+
+.igs-txt-lower {
+    text-transform: lowercase;
+}
+
+/**
+    les couleurs 
+**/
+.igs-txt-green {
+    color: #2D7619;
+}
+.igs-txt-red {
+    color: #E01411;
+}
+.igs-txt-blue {
+    color: blue;
+}
+.igs-txt-black {
+    color: black;
+}
+.igs-txt-yellow {
+    color: yellow;
+}
+.igs-txt-white {
+    color: white;
+}
+/**
+    fin les couleurs 
+**/
+
+
+
+/**
+    Flexbox 
+**/
+.igs-flex {
+    display: flex;
+}
+.igs-flex-row {
+    flex-direction: row;
+}
+.igs-flex-col {
+    flex-direction: column;
+}
+.igs-justify-center {
+    justify-content: center;
+}
+.igs-items-center {
+    align-items: center;
+}
+.igs-items-start {
+    align-items: start;
+}
+.igs-items-end {
+    align-items: end;
+}
+.igs-justify-start {
+    justify-content: start;      /* Pack items from the start */
+}
+
+.igs-justify-end {
+    justify-content: end;
+}
+/**
+    End Flexbox 
+**/
+
+/** Padding & margin**/
+.igs-m-0 {
+    margin: 0;
+}
+.igs-m-1 {
+    margin: 1rem; /** 16px **/
+}
+/** End Padding & Margin**/
+
+.igs-border {
+    border: 2px solid #2D7619;
+}
+.igs-m-2 {
+    margin: 0;
+}
+.igs-m-3 {
+    margin: 0;
+}
+.igs-p-0 {
+    padding: 0;
+}
+
+.igs-m-2 {
+    margin: 2px;
+}
+
+.igs-hover:hover {
+    color: #E01411;
+}
+
+.igs-cursor-pointer {
+    cursor: pointer;
+}
+
+.igs-w-10 {
+    width: 1rem;
+}
+.igs-h-10 {
+    width: 1rem;
+}
+
+
